@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CONFIGS_BASE_URL='https://raw.githubusercontent.com/akiraohgaki/configs/main'
+CONFIGS_BASE_URL='https://raw.githubusercontent.com/p-huisman/configs/main'
 
 #CONFIG_DIR=''
 FONTS_DIR=''
