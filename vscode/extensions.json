@@ -20,12 +20,16 @@
     "humao.rest-client",
     "hediet.vscode-drawio",
     "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.vscode-node-azure-pack",
     "ms-vsliveshare.vsliveshare",
-    "amazonwebservices.aws-toolkit-vscode",
+    "tepsize.tech-debt-tracker",
+    "pflannery.vscode-versionlens",
     "github.codespaces",
     "github.remotehub",
+    "github.copilot",
     "github.vscode-pull-request-github",
     "github.github-vscode-theme",
     "zhuangtongfa.material-theme"
+    
   ]
 }
